@@ -6,5 +6,5 @@ link: "https://openaccess.thecvf.com/content/ICCV2023W/LXCV/html/Bastico_A_Simpl
 date: 2023-10-03
 venue: 'Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops'
 authors: <strong>Matteo Bastico</strong>, David Ryckelynck, Laurent Corté, Yannick Tillier, Etienne Decencière
-citation: Matteo Bastico, David Ryckelynck, Laurent Corté, Yannick Tillier, Etienne Decencière; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops, 2023, pp. 4128-4138
+citation: 'M. Bastico, D. Ryckelynck, L. Corté, Y. Tillier and E. Decencière, "A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers," 2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), Paris, France, 2023, pp. 4130-4140, doi: 10.1109/ICCVW60793.2023.00446.'
 ---
