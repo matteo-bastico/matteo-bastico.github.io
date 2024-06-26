@@ -12,13 +12,27 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% if teaser %}
+<style>
+  p {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  @media (max-width: 600px) {
+        .archive__item {
+            flex-basis: 100%;
+        }
+    }
+</style>
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item">
   {% if teaser %}
     <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin-top:10px"
              style="
               gap: 10px;
               display: flex;
-              flex-wrap: wrap;">
+              flex-wrap: wrap; margin-top: 10px">
         <div class="archive__item-teaser" style="flex:1; max-width:200px">
           <img src=
             {% if teaser contains "://" %}
@@ -35,13 +49,13 @@
     {% if teaser %}
         <div style="flex:1">
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0">
+    <h5 class="archive__item-title" itemprop="headline" style="margin-top: 0">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+    </h5>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
