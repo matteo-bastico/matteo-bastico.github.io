@@ -16,30 +16,51 @@ While pursuing my master's degree, I was awarded a scholarship for a Double Mast
 <i class="fa-solid fa-download" aria-hidden="true"></i> Download my [CV](../files/CV.pdf)
 
 <style>
-        .container {
-            display: flex;
-            flex-wrap: wrap;
-        }
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px; /* Adjust the gap size as needed */
+    }
+    .box {
+        flex: 1;
+        min-width: 300px; /* Adjust as needed */
+        box-sizing: border-box;
+    }
+    
+    @media (max-width: 600px) {
         .box {
-            flex: 1;
-            min-width: 300px; /* Adjust as needed */
-            padding: 10px;
-            box-sizing: border-box;
-            border: 1px solid #000;
+            flex-basis: 100%;
         }
-
-        @media (max-width: 600px) {
-            .box {
-                flex-basis: 100%;
-            }
-        }
+    }
 </style>
 
 <div class="container">
-    <div class="box" style="background-color: lightblue;">
-        Div 1
+    <div class="box">
+        <strong>Interests</strong>
+        <ul>
+            <li>Computer Vision</li>
+            <li>Deep Learning Architectures</li>
+            <li>Medical Imaging</li>
+            <li>Image Segmentation</li>
+            <li>Point Clouds</li>
+            <li>Python Programming</li>
+            <li>Participation in Workshops and Conferences</li>
+        </ul>
     </div>
-    <div class="box" style="background-color: lightcoral;">
-        Div 2
+    <div class="box">
+        <strong>Education</strong>
+        <ul class="fa-ul">
+            <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> PhD in AI and CV, 2025 (Expected)<br> <small><em>Mines Paris - PSL Univeristy, France</em></small></li>
+            <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> MSc in ICT for Internet and Multimedia (Honours), 2021 <br> <small><em>Università degli Studi di Padova, Italy</em></small></li>
+            <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> MSc in Telecommunication Engineering, 2021 <br> <small><em>Universidad Politecnica de Madrid, Spain</em></small></li>
+            <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> BSc in Information Engineering, 2018 <br> <small><em>Università degli Studi di Padova, Italy</em></small></li>
+        </ul>
     </div>
 </div>
+
+----
+Recent Updates
+======
+<ul>
+    <li><em>Feb. 26, 2024</em> Coupled Laplacian is accepted by CVPR'24 <i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i>. More details <a href="/publication/2024-02-26-coupled-laplacian">here</a>.</li>.
+</ul>
