@@ -18,15 +18,15 @@ Education
 
 Work experience
 ======
-* 2021 - 2022: AI Research Scientist | Universidad Politécnica de Madrid, Spain
+* 2021 - 2022: AI Research Scientist @ Universidad Politécnica de Madrid, Spain
   * Involved in international European Union’s Horizon 2020 projects, such as GenoMed4All and RESCUER.
   * Developed AI models in Python, using the PyTorch framework, with medical applications (DNA Analysis, Patient Identification).
   * Proactively participated in teamwork, meetings, business trips, article publications, and conferences.
 
-* 2018 - 2019: ICT Help Desk Agent | IL GAZZETTINO, Venice, Italy
+* 2018 - 2019: ICT Help Desk Agent @ IL GAZZETTINO, Venice, Italy
   * Troubleshot and resolved a vast range of hardware, software, and network connectivity problems both remotely and in-place.
   * Answered calls, responded to emails, and spoke with clients face-to-face.
-  * 
+  
 Skills
 ======
 * Computer Vision
