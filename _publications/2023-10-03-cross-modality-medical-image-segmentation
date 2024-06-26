@@ -1,0 +1,9 @@
+---
+teaser: "20231003.png"
+title: "A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers"
+collection: publications
+link: "https://openaccess.thecvf.com/content/ICCV2023W/LXCV/html/Bastico_A_Simple_and_Robust_Framework_for_Cross-Modality_Medical_Image_Segmentation_ICCVW_2023_paper.html"
+date: 2023-10-03
+venue: 'Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops'
+authors: <strong>Matteo Bastico</strong>, David Ryckelynck, Laurent Corté, Yannick Tillier, Etienne Decencière
+---

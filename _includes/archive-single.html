@@ -16,7 +16,6 @@
 <style>
   p {
     margin: 0;
-    margin-bottom: 5px;
   }
   @media (max-width: 600px) {
         .archive__item {
@@ -49,13 +48,13 @@
     {% if teaser %}
         <div style="flex:1">
     {% endif %}
-    <h5 class="archive__item-title" itemprop="headline" style="margin-top: 0">
+    <h3 class="archive__item-title" itemprop="headline" style="margin-top: 0; text-decoration: None">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h5>
+    </h3>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
