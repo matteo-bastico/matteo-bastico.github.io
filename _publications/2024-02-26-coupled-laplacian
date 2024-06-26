@@ -1,4 +1,5 @@
 ---
+type: grid
 header:
   teaser: "500x300.png"
 title: "Coupled Laplacian Eigenmaps for Locally-Aware 3D Rigid Point Cloud Matching"
