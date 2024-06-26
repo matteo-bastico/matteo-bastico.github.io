@@ -60,7 +60,7 @@ While pursuing my master's degree, I was awarded a scholarship for a Double Mast
 
 ----
 Recent Updates
-======
+
 <ul>
-    <li><em>Feb. 26, 2024</em> Coupled Laplacian is accepted by CVPR'24 <i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i>. More details <a href="/publication/2024-02-26-coupled-laplacian">here</a>.</li>.
+    <li><em>Feb. 26, 2024</em> Coupled Laplacian is accepted by CVPR'24 <i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i>. More details <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Bastico_Coupled_Laplacian_Eigenmaps_for_Locally-Aware_3D_Rigid_Point_Cloud_Matching_CVPR_2024_paper.html">here</a>.</li>.
 </ul>
