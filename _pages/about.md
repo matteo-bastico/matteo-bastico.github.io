@@ -43,7 +43,7 @@ While pursuing my master's degree, I was awarded a scholarship for a Double Mast
             <li>Medical Imaging</li>
             <li>Image Segmentation</li>
             <li>Point Clouds</li>
-            <li>Python Programming</li>
+            <li>Python Programming (PyTorch, CUDA)</li>
             <li>Participation in Workshops and Conferences</li>
         </ul>
     </div>

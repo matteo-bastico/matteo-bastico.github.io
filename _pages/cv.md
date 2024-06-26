@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in AI and CV, Mines Paris - PSL Univeristy, France, 2025 (Expected)
+* MSc in ICT for Internet and Multimedia (Honours), Università degli Studi di Padova, Italy, 2021
+* MSc in Telecommunication Engineering, Universidad Politecnica de Madrid, Spain, 2021
+* BSc in Information Engineering, Università degli Studi di Padova, Italy, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021 - 2022: AI Research Scientist | Universidad Politécnica de Madrid, Spain
+  * Involved in international European Union’s Horizon 2020 projects, such as GenoMed4All and RESCUER.
+  * Developed AI models in Python, using the PyTorch framework, with medical applications (DNA Analysis, Patient Identification).
+  * Proactively participated in teamwork, meetings, business trips, article publications, and conferences.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2018 - 2019: ICT Help Desk Agent | IL GAZZETTINO, Venice, Italy
+  * Troubleshot and resolved a vast range of hardware, software, and network connectivity problems both remotely and in-place.
+  * Answered calls, responded to emails, and spoke with clients face-to-face.
+  * 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Vision
+* Deep Learning Architectures
+* Medical Image Analysis
+* Image Segmentation
+* Point Clouds
+* Python Programming
+  * PyTorch, Numpy
+  * Data Parallel
+  * CUDA
+* Git and GitHub
+* Communication and Teamwork 
+* Article Writing and Graphics Design 
 
 Publications
 ======
