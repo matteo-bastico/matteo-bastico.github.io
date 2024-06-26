@@ -3,7 +3,7 @@ title: "Coupled Laplacian Eigenmaps for Locally-Aware 3D Rigid Point Cloud Match
 collection: publications
 permalink: /publication/2024-02-26-coupled-laplacian
 excerpt: ''
-date: 2024
+date: 2024-02-26
 venue: 'Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/html/Bastico_Coupled_Laplacian_Eigenmaps_for_Locally-Aware_3D_Rigid_Point_Cloud_Matching_CVPR_2024_paper.html'
 citation: 'Matteo Bastico, Etienne Decencière, Laurent Corté, Yannick Tillier, David Ryckelynck; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024, pp. 3447-3458'
