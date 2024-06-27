@@ -32,7 +32,9 @@
               gap: 10px;
               display: flex;
               flex-wrap: wrap; margin-top: 10px;
-              justify-content: center;">
+              justify-content: center;
+              align-items: center;
+            ">
         <div class="archive__item-teaser box" style="flex:1; max-width:200px; display: flex;
     flex-direction: column;
     justify-content: center;">
@@ -42,7 +44,8 @@
             {% else %}
               "{{ teaser | prepend: "/images/" | prepend: base_path }}"
             {% endif %}
-            alt="">
+            alt="" style="    max-height: 150px;
+            width: fit-content;">
         </div>
     {% else %}
       <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
