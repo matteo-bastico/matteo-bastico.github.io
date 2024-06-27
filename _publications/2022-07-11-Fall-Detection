@@ -7,4 +7,5 @@ date: 2022-07-11
 venue: 'Proceedings of the 15th International Conference on PErvasive Technologies Related to Assistive Environments (PETRA)'
 authors: <strong>Matteo Bastico</strong>, Verónica Ruiz Bejerano, Alberto Belmonte-Hernández
 citation: 'M. Bastico, V.R. Bejerano, and A. Belmonte-Hernández. 2022. Simultaneous Real-Time Human Fall Detection and Reidentification Based on Multisensors Data. In Proceedings of the 15th International Conference on PErvasive Technologies Related to Assistive Environments (PETRA 22). Association for Computing Machinery, New York, NY, USA, 365–370. https://doi.org/10.1145/3529190.3534728'
+pdf: 'https://dl.acm.org/doi/pdf/10.1145/3529190.3534728'
 ---

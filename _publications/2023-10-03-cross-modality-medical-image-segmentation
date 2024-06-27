@@ -7,4 +7,6 @@ date: 2023-10-03
 venue: 'Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops'
 authors: <strong>Matteo Bastico</strong>, David Ryckelynck, Laurent Corté, Yannick Tillier, Etienne Decencière
 citation: 'M. Bastico, D. Ryckelynck, L. Corté, Y. Tillier and E. Decencière, "A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers," 2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW), Paris, France, 2023, pp. 4130-4140, doi: 10.1109/ICCVW60793.2023.00446.'
+github: 'https://github.com/matteo-bastico/MI-Seg'
+pdf: 'https://openaccess.thecvf.com/content/ICCV2023W/LXCV/papers/Bastico_A_Simple_and_Robust_Framework_for_Cross-Modality_Medical_Image_Segmentation_ICCVW_2023_paper.pdf'
 ---

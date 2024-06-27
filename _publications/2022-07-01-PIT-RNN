@@ -7,4 +7,5 @@ date: 2022-07-01
 venue: 'IEEE Sensors Journal'
 authors: <strong>Matteo Bastico</strong>, Alberto Belmonte-Hernández, Federico Álvarez García
 citation: 'M. Bastico, A. Belmonte-Hernández and F. Á. García, "Continuous Person Identification and Tracking in Healthcare by Integrating Accelerometer Data and Deep Learning Filled 3D Skeletons," in IEEE Sensors Journal, vol. 22, no. 15, pp. 15402-15409, 1 Aug.1, 2022, doi: 10.1109/JSEN.2022.3186499.'
+github: 'https://github.com/matteo-bastico/SkeletonRNN'
 ---
