@@ -57,13 +57,13 @@
     flex-direction: column;
     justify-content: center;">
     {% endif %}
-    <h3 class="archive__item-title" itemprop="headline" style="margin-top: 0; text-decoration: None">
+    <p class="archive__item-title" itemprop="headline" style="margin-top: 0; text-decoration: None">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
       {% elsif post.url %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h3>
+    </p>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
