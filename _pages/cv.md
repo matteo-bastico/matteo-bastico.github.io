@@ -26,7 +26,7 @@ Work experience
 * 2018 - 2019: ICT Help Desk Agent @ IL GAZZETTINO, Venice, Italy
   * Troubleshot and resolved a vast range of hardware, software, and network connectivity problems both remotely and in-place.
   * Answered calls, responded to emails, and spoke with clients face-to-face.
-* 2014 - 2015: Front-End Programmer @ Valore4IT, Venice, Italy 
+* 2014 - 2015: Front-End Developer @ Valore4IT, Venice, Italy 
   * Developed websites for clients 
   
 Skills
