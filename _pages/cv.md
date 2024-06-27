@@ -61,3 +61,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Spoken Languages
+======
+  <ul>
+    <li>Italian (First Language)</li>
+    <li>English (C1)</li>
+    <li>Spanish (C1)</li>
+    <li>French (B2)</li>
+  </ul>
