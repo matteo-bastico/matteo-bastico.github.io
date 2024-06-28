@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD Fellow of the Horizon 2020 - Marie Skłodowska-Curie Actions - COFUND European program [AI4TheSciences](https://psl.eu/en/research/major-research-projects/european-programs/ai4thesciences-doctoral-program) at [Mines Paris – PSL University](https://www.minesparis.psl.eu/en/home/) (Paris, France).
 
-My current focus is the application of Deep Learning and Computer Vision techniques to medical images for the development of computer-aided surgery planning based on State-of-The-Art technologies, such as Vision Transformers, Segment Anything Model, and Convolutional Neural Networks. 
+My current focus is the application of Deep Learning and Computer Vision techniques to medical images for the development of computer-aided surgery planning based on State-of-The-Art technologies (see [here](https://www.cmm.minesparis.psl.eu/wp-content/uploads/2022/01/Transfer-learning-in-biomechanics.pdf)), such as Vision Transformers, Segment Anything Model, and Convolutional Neural Networks. 
 Before starting my PhD, I also worked as an AI Research Scientist at [Universidad Politecnica de Madrid](https://www.gatv.ssr.upm.es/index.php/en/) (UPM) focusing on different applications, as part of European Union’s Horizon 2020 research projects, such as [GenoMed4All](https://genomed4all.eu/) and [RESCUER](https://rescuerproject.eu/).  
 While pursuing my master's degree, I was awarded a scholarship for a Double Master's Degree program between Italy and Spain, conducting a thesis on DL and CV applied to autonomous driving (3D depth completion and object detection).
 
