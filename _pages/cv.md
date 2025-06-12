@@ -31,7 +31,7 @@ Work experience
 
 Scholarships
 ======
-* 2022 - 2025: Doctoral program AI4TheSciences | Horizon 2020 -Marie Skłodowska-Curie Actions-COFUND @ PSL University, France
+* 2022 - 2025: Doctoral program AI4TheSciences - Horizon 2020 -Marie Skłodowska-Curie Actions-COFUND @ PSL University, France
 
 * 2019 - 2021: Double Master's Degree program @ University of Padua (Italy) & Universidad Politécnica de Madrid (Spain)
 
