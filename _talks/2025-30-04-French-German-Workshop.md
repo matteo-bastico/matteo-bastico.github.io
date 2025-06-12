@@ -5,6 +5,6 @@ collection: talks
 type: "Talk"
 link: no_link
 venue: "French German Workshop"
-date: 2025-30-04
+date: 2025-04-30
 location: "Kaiserslautern, Fraunhofer ITWM, Germany"
 ---
