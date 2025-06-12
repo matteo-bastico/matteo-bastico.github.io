@@ -11,38 +11,41 @@ redirect_from:
 
 Education
 ======
-* PhD in in AI and Computer Vision Methods for Medical Imaging and Knee Mechanical Modelling, Mines Paris - PSL Univeristy, France, 2025 (Expected)
-* MSc in ICT for Internet and Multimedia (Honours), Università degli Studi di Padova, Italy, 2021 - Double Master's Degree Scholarship
-* MSc in Telecommunication Engineering, Universidad Politecnica de Madrid, Spain, 2021 - Double Master's Degree Scholarship
+* PhD in Deep Learning and 3D Vision Methods for Knee Modeling and Surgery Planning, Mines Paris - PSL Univeristy, France, 2025 (Expected)
+* MSc in ICT for Internet and Multimedia (Honours), Università degli Studi di Padova, Italy, 2021
+* MSc in Telecommunication Engineering, Universidad Politecnica de Madrid, Spain, 2021
 * BSc in Information Engineering, Università degli Studi di Padova, Italy, 2018
 
 Work experience
 ======
-* 2021 - 2022: AI Research Scientist @ Universidad Politécnica de Madrid, Spain
+* 2021 - 2022: Deep Learning Research Scientist @ Universidad Politécnica de Madrid, Spain
   * Involved in international European Union’s Horizon 2020 projects, such as <a href='https://genomed4all.eu/'>GenoMed4All</a> and <a href='https://rescuerproject.eu/'>RESCUER</a>.
-  * Developed AI models in Python, using the PyTorch framework, with medical applications (DNA Analysis, Patient Identification).
+  * Designed, implemented and published deep learning models using PyTorch framework (convolutional, transformers and recurrent neural networks).
   * Proactively participated in teamwork, meetings, business trips, article publications, and conferences.
 
 * 2018 - 2019: ICT Help Desk Agent @ IL GAZZETTINO, Venice, Italy
   * Troubleshot and resolved a vast range of hardware, software, and network connectivity problems both remotely and in-place.
   * Answered calls, responded to emails, and spoke with clients face-to-face.
-* 2014 - 2015: Front-End Developer @ Valore4IT, Venice, Italy 
-  * Developed websites for clients 
   
+* 2014 - 2015: Front-End Developer @ Valore4IT, Venice, Italy
+
+Scholarships
+======
+* 2022 - 2025: Doctoral program AI4TheSciences | Horizon 2020 -Marie Skłodowska-Curie Actions-COFUND @ PSL University, France
+
+* 2019 - 2021: Double Master's Degree program @ University of Padua (Italy) & Universidad Politécnica de Madrid (Spain)
+
 Skills
 ======
-* Computer Vision
-* Deep Learning Architectures
-* Medical Image Analysis
+* 3D Vision (Images, Point Clouds)
+* Transformers
+* Convolutional Neural Networks
+* Diffusion Models
 * Image Segmentation
-* Point Clouds
-* Python Programming
-  * PyTorch, Numpy
-  * Data Parallel
-  * CUDA
+* Python (PyTorch, CUDA, DDP)
 * Git and GitHub
 * Communication and Teamwork 
-* Article Writing and Graphics Design 
+* Article Writing and Design 
 
 Publications
 ======
@@ -67,6 +70,6 @@ Spoken Languages
   <ul>
     <li>Italian (First Language)</li>
     <li>English (C1)</li>
-    <li>Spanish (C1)</li>
-    <li>French (B2)</li>
+    <li>Spanish (B2-C1)</li>
+    <li>French (B2-C1)</li>
   </ul>
