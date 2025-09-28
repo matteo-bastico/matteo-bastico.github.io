@@ -11,7 +11,10 @@ redirect_from:
 
 Education
 ======
-* PhD in Deep Learning and 3D Vision Methods for Knee Modeling and Surgery Planning, Mines Paris - PSL Univeristy, France, 2025 (Expected)
+* PhD in Advancing 3D Vision and Deep Learning for Shape Analysis and Synthesis: Application to Knee Joint Modeling, Mines Paris - PSL Univeristy, France, 2025 (Expected EoY)
+  * Transformer-based architectures for 3D vision (images and point clouds)
+  * 3D shape synthesis using Denoising Diffusion Probabilistic Models (DDPMs) models
+  * Publications in top-tier peer-reviewed conferences (CVPR, ICCVW)</li>
 * MSc in ICT for Internet and Multimedia (Honours), Università degli Studi di Padova, Italy, 2021
 * MSc in Telecommunication Engineering, Universidad Politecnica de Madrid, Spain, 2021
 * BSc in Information Engineering, Università degli Studi di Padova, Italy, 2018
@@ -19,33 +22,27 @@ Education
 Work experience
 ======
 * 2021 - 2022: Deep Learning Research Scientist @ Universidad Politécnica de Madrid, Spain
-  * Involved in international European Union’s Horizon 2020 projects, such as <a href='https://genomed4all.eu/'>GenoMed4All</a> and <a href='https://rescuerproject.eu/'>RESCUER</a>.
-  * Designed, implemented and published deep learning models using PyTorch framework (convolutional, transformers and recurrent neural networks).
+  * Designed, implemented and published supervised deep learning architectures (Transformers, CNNs) in PyTorch for DNA, medical imaging, and 3D skeleton analysis.
+  * Involved in collaborative international European Union’s Horizon 2020 projects, such as [GenoMed4All](https://genomed4all.eu/") and [RESCUER](https://rescuerproject.eu/).
   * Proactively participated in teamwork, meetings, business trips, article publications, and conferences.
-
 * 2018 - 2019: ICT Help Desk Agent @ IL GAZZETTINO, Venice, Italy
-  * Troubleshot and resolved a vast range of hardware, software, and network connectivity problems both remotely and in-place.
-  * Answered calls, responded to emails, and spoke with clients face-to-face.
-  
 * 2014 - 2015: Front-End Developer @ Valore4IT, Venice, Italy
 
 Scholarships
 ======
-* 2022 - 2025: Doctoral program AI4TheSciences - Horizon 2020 -Marie Skłodowska-Curie Actions-COFUND @ PSL University, France
-
+* 2022 - 2025: Doctoral program [AI4TheSciences](https://psl.eu/en/research/major-research-projects/european-programs/ai4thesciences-doctoral-program) - Horizon 2020 -Marie Skłodowska-Curie Actions-COFUND @ PSL University, France
 * 2019 - 2021: Double Master's Degree program @ University of Padua (Italy) & Universidad Politécnica de Madrid (Spain)
 
 Skills
 ======
-* 3D Vision (Images, Point Clouds)
-* Transformers
-* Convolutional Neural Networks
+* 3D Computer Vision
+* Transformers, CNNs
 * Diffusion Models
-* Image Segmentation
+* Semantic Segmentation
+* Point Clouds
 * Python (PyTorch, CUDA, DDP)
-* Git and GitHub
-* Communication and Teamwork 
-* Article Writing and Design 
+* Git and [GitHub](https://github.com/matteo-bastico)
+* Scientific Writing
 
 Publications
 ======
