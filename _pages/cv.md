@@ -14,7 +14,7 @@ Education
 * PhD in Advancing 3D Vision and Deep Learning for Shape Analysis and Synthesis: Application to Knee Joint Modeling, Mines Paris - PSL Univeristy, France, 2025 (Expected EoY)
   * Transformer-based architectures for 3D vision (images and point clouds)
   * 3D shape synthesis using Denoising Diffusion Probabilistic Models (DDPMs) models
-  * Publications in top-tier peer-reviewed conferences (CVPR, ICCVW)</li>
+  * Publications in top-tier peer-reviewed conferences (CVPR, ICCVW)
 * MSc in ICT for Internet and Multimedia (Honours), Università degli Studi di Padova, Italy, 2021
 * MSc in Telecommunication Engineering, Universidad Politecnica de Madrid, Spain, 2021
 * BSc in Information Engineering, Università degli Studi di Padova, Italy, 2018
