@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD Fellow in the Horizon 2020 — Marie Skłodowska-Curie Actions — COFUND European program [AI4TheSciences](https://psl.eu/en/research/major-research-projects/european-programs/ai4thesciences-doctoral-program), based at [Mines Paris – PSL University](https://www.minesparis.psl.eu/en/home/) (Paris, France).
+Deep learning and 3D computer vision researcher specializing in medical applications for computer-aided modeling and markerless surgical planning.
 
-My PhD research focuses on advancing deep learning and computer vision for 3D data, with applications ranging from medical domain to broader 3D vision tasks. This includes working with transformer-based and convolutional deep learning architectures, as well as generative diffusion models.
+During my PhD at Mines Paris – PSL, co-funded by the Marie Skłodowska-Curie Actions COFUND program <a href="https://psl.eu/en/research/major-research-projects/european-programs/ai4thesciences-doctoral-program">AI4TheSciences</a>, I designed transformer- and convolution-based architectures, as well as generative diffusion models, for 3D medical imaging and point clouds. This work resulted in publications at top-tier international conferences including CVPR, 3DV, and ICCVW.
 
-Prior to my PhD, I worked as a deep learning research scientist at the [Universidad Politecnica de Madrid](https://www.gatv.ssr.upm.es/index.php/en/) (UPM), contributing to various deep learning solutions as part of European Union Horizon 2020 projects, such as [GenoMed4All](https://genomed4all.eu/) and [RESCUER](https://rescuerproject.eu/).  
+Previously, I worked as a Deep Learning Research Scientist at Universidad Politécnica de Madrid, contributing to EU Horizon 2020 projects including GenoMed4All and PROCare4Life, where I coordinated technical teams and developed models for DNA analysis, medical imaging, and 3D skeletal data.
 
-During my master’s studies, I was awarded a scholarship for a Double MSc in Telecommunications Engineering between [Università di Padova](https://www.unipd.it) (Italy) and UPM (Spain), and conducted my final thesis on deep learning for LiDAR data in autonomous driving, focusing on 3D depth completion and object detection.
+I hold a Double Master's Degree from the University of Padua and Universidad Politécnica de Madrid, where I completed a thesis on 3D depth completion and object detection for autonomous driving.
 
-I am dedicated to innovative R&D in 3D vision, with a strong commitment to scientific contributions and publications.
+My research bridges innovative AI methods with practical clinical applications, with a focus on developing solutions that can make a meaningful impact in healthcare
 
 <i class="fa-solid fa-download" aria-hidden="true"></i> Download my [CV](../files/CV.pdf)
 
@@ -43,17 +43,19 @@ I am dedicated to innovative R&D in 3D vision, with a strong commitment to scien
         <strong>Interests</strong>
         <ul>
             <li>3D Vision (Images, Point Clouds)</li>
-            <li>Deep Learning (CNNs, Transformers)</li>
-            <li>Diffusion Models</li>
+            <li>Deep Learning (Transformers, CNNs)</li>
+            <li>Generative Diffusion Models</li>
+            <li>Medical Imaging</li>
             <li>Semantic Segmentation</li>
-            <li>Python (PyTorch, CUDA, DDP)</li>
+            <li>Python (PyTorch, DDP)</li>
+            <li>Scalable Training on HPC</li>
         </ul>
     </div>
     <div class="box">
         <strong>Education</strong>
         <ul class="fa-ul">
-            <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> PhD in Advancing 3D Vision and Deep Learning for Shape Analysis and Synthesis: Application to Knee Joint Modeling, 2025 (Expected by EoY)<br> <small><em>Mines Paris - PSL Univeristy, France</em></small></li>
-            <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> MSc in ICT for Internet and Multimedia (Honours), 2021 <br> <small><em>Università degli Studi di Padova, Italy</em></small></li>
+            <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> PhD Deep Learning and 3D Vision (Medical Application), 2025 <br> <small><em>Mines Paris - PSL Univeristy, France</em></small></li>
+            <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> MSc in ICT for Internet and Multimedia <i>cum laude</i>, 2021 <br> <small><em>Università degli Studi di Padova, Italy</em></small></li>
             <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> MSc in Telecommunication Engineering, 2021 <br> <small><em>Universidad Politecnica de Madrid, Spain</em></small></li>
             <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> BSc in Information Engineering, 2018 <br> <small><em>Università degli Studi di Padova, Italy</em></small></li>
         </ul>

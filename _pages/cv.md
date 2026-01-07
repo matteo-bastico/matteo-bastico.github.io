@@ -11,19 +11,20 @@ redirect_from:
 
 Education
 ======
-* PhD in Advancing 3D Vision and Deep Learning for Shape Analysis and Synthesis: Application to Knee Joint Modeling, Mines Paris - PSL Univeristy, France, 2025 (Expected EoY)
+* <b>PhD</b> in Deep Learning and 3D Vision (Medical Application), Mines Paris - PSL Univeristy, France, 2025 (Expected EoY)
+  * <b>Thesis</b> "Advancing 3D Vision and Deep Learning for Shape Analysis and Synthesis: Application to Knee Biomechanical Modeling"
   * Transformer-based architectures for 3D vision (images and point clouds)
   * 3D shape synthesis using Denoising Diffusion Probabilistic Models (DDPMs) models
-  * Publications in top-tier peer-reviewed conferences (CVPR, ICCVW)
-* MSc in ICT for Internet and Multimedia (Honours), Università degli Studi di Padova, Italy, 2021
-* MSc in Telecommunication Engineering, Universidad Politecnica de Madrid, Spain, 2021
-* BSc in Information Engineering, Università degli Studi di Padova, Italy, 2018
+  * Publications in top-tier peer-reviewed conferences (CVPR, ICCVW, 3DV)
+* <b>MSc</b>  in ICT for Internet and Multimedia <i>cum laude</i>, Università degli Studi di Padova, Italy, 2021
+* <b>MSc</b>  in Telecommunication Engineering, Universidad Politecnica de Madrid, Spain, 2021
+* <b>BSc</b>  in Information Engineering, Università degli Studi di Padova, Italy, 2018
 
 Work experience
 ======
-* 2021 - 2022: Deep Learning Research Scientist @ Universidad Politécnica de Madrid, Spain
+* 2021 - 2022: <b>Deep Learning Research Scientist</b> @ Universidad Politécnica de Madrid, Spain
   * Designed, implemented and published supervised deep learning architectures (Transformers, CNNs) in PyTorch for DNA, medical imaging, and 3D skeleton analysis.
-  * Involved in collaborative international European Union’s Horizon 2020 projects, such as [GenoMed4All](https://genomed4all.eu/") and [RESCUER](https://rescuerproject.eu/).
+  * Involved in collaborative international European Union’s Horizon 2020 projects, such as [GenoMed4All](https://genomed4all.eu/") and [PROCare4Life](https://procare4life.eu).
   * Proactively participated in teamwork, meetings, business trips, article publications, and conferences.
 * 2018 - 2019: ICT Help Desk Agent @ IL GAZZETTINO, Venice, Italy
 * 2014 - 2015: Front-End Developer @ Valore4IT, Venice, Italy
@@ -35,14 +36,14 @@ Scholarships
 
 Skills
 ======
-* 3D Computer Vision
-* Transformers, CNNs
-* Diffusion Models
+* Transformers, CNNs 
+* Generative Diffusion Models
+* Medical Imaging
 * Semantic Segmentation
-* Point Clouds
-* Python (PyTorch, CUDA, DDP)
-* Git and [GitHub](https://github.com/matteo-bastico)
-* Scientific Writing
+* 3D Point Clouds
+* Python, PyTorch
+* Scalable Training on HPC
+* Git, [GitHub](https://github.com/matteo-bastico)
 
 Publications
 ======

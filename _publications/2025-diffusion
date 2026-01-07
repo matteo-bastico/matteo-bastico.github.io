@@ -3,8 +3,10 @@ teaser: "2025dipt.png"
 image: "2025dipt.png"
 title: "Rethinking Metrics and Diffusion Architecture for 3D Point Cloud Generation"
 collection: publications
-date: 2025-06-01
-venue: 'Submitted to International Conference, Pre-Print Available Soon'
-citation: 'Submitted to International Conference, Pre-Print Available Soon'
+date: 2026-03-20
+venue: 'International Conference on 3D Vision (3DV)'
+citation: 'Bastico, Matteo, et al. Rethinking Metrics and Diffusion Architecture for 3D Point Cloud Generation. 2025, https://arxiv.org/abs/2511.05308.'
 authors: <strong>Matteo Bastico</strong>, David Ryckelynck, Laurent Corté, Yannick Tillier, Etienne Decencière
+github: 'https://github.com/matteo-bastico/DiffusionPointTransformer'
+pdf: 'https://arxiv.org/abs/2511.05308'
 ---
