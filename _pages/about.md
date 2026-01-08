@@ -66,6 +66,9 @@ My research bridges innovative AI methods with practical clinical applications, 
 Recent Updates
 
 <ul>
-    <li><em>June, 2025</em> Diffusion Point Transformer (DiPT) architecture releasing soon <i class="fa-solid fa-hourglass"></i><i class="fa-solid fa-hourglass"></i><i class="fa-solid fa-hourglass"></i></li>
+    <li><em>Dec. 19, 2025</em> PhD obtained at Mines Paris - PSL <i class="fa-solid fa-graduation-cap"></i><i class="fa-solid fa-graduation-cap"></i><i class="fa-solid fa-graduation-cap"></i>.</li>
+    <li><em>Dec. 2025</em> Landmarks Point Transformer (LmPT) architecture releasing soon <i class="fa-solid fa-hourglass"></i><i class="fa-solid fa-hourglass"></i><i class="fa-solid fa-hourglass"></i></li>
+    <li><em>Nov. 05, 2025</em> "Rethinking Metrics and Diffusion Architecture for 3D Point Cloud Generation" is accepted by 3DV'26 <i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i>. More details <a href="https://3dvconf.github.io/2026/accepted-papers/">here</a>.</li>
+    <li><em>June 2025</em> Diffusion Point Transformer (DiPT) architecture releasing soon <i class="fa-solid fa-hourglass"></i><i class="fa-solid fa-hourglass"></i><i class="fa-solid fa-hourglass"></i></li>
     <li><em>Feb. 26, 2024</em> Coupled Laplacian is accepted by CVPR'24 <i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i><i class="fa-solid fa-champagne-glasses"></i>. More details <a href="https://openaccess.thecvf.com/content/CVPR2024/html/Bastico_Coupled_Laplacian_Eigenmaps_for_Locally-Aware_3D_Rigid_Point_Cloud_Matching_CVPR_2024_paper.html">here</a>.</li>
 </ul>
