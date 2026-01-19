@@ -2,6 +2,7 @@
 teaser: "2025dipt.png"
 image: "2025dipt.png"
 title: "Rethinking Metrics and Diffusion Architecture for 3D Point Cloud Generation"
+link: "https://arxiv.org/abs/2511.05308"
 collection: publications
 date: 2026-03-20
 venue: 'International Conference on 3D Vision (3DV)'
