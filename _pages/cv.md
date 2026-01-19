@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>PhD</b> in Deep Learning and 3D Vision (Medical Application), Mines Paris - PSL Univeristy, France, 2025 (Expected EoY)
+* <b>PhD</b> in Deep Learning and 3D Vision (Medical Application), Mines Paris - PSL Univeristy, France, 2025
   * <b>Thesis</b> "Advancing 3D Vision and Deep Learning for Shape Analysis and Synthesis: Application to Knee Biomechanical Modeling"
   * Transformer-based architectures for 3D vision (images and point clouds)
   * 3D shape synthesis using Denoising Diffusion Probabilistic Models (DDPMs) models
@@ -23,9 +23,9 @@ Education
 Work experience
 ======
 * 2021 - 2022: <b>Deep Learning Research Scientist</b> @ Universidad Politécnica de Madrid, Spain
-  * Designed, implemented and published supervised deep learning architectures (Transformers, CNNs) in PyTorch for DNA, medical imaging, and 3D skeleton analysis.
-  * Involved in collaborative international European Union’s Horizon 2020 projects, such as [GenoMed4All](https://genomed4all.eu/") and [PROCare4Life](https://procare4life.eu).
-  * Proactively participated in teamwork, meetings, business trips, article publications, and conferences.
+  * Contributed to EU Horizon 2020 projects, such as [GenoMed4All](https://genomed4all.eu/") and [PROCare4Life](https://procare4life.eu).
+  * Coordinated work across technical teams and developing supervised deep learning models in PyTorch for DNA, medical imaging, and 3D skeletal data.
+  * Delivered end-to-end pipelines and co-authored 3 peer-reviewed publications.
 * 2018 - 2019: ICT Help Desk Agent @ IL GAZZETTINO, Venice, Italy
 * 2014 - 2015: Front-End Developer @ Valore4IT, Venice, Italy
 
