@@ -12,11 +12,12 @@ redirect_from:
 Education
 ======
 * <b>PhD</b> in Deep Learning and 3D Vision (Medical Application), Mines Paris - PSL Univeristy, France, 2025
-  * <b>Thesis</b> "Advancing 3D Vision and Deep Learning for Shape Analysis and Synthesis: Application to Knee Biomechanical Modeling"
-  * Transformer-based architectures for 3D vision (images and point clouds)
-  * 3D shape synthesis using Denoising Diffusion Probabilistic Models (DDPMs) models
-  * Publications in top-tier peer-reviewed conferences (CVPR, ICCVW, 3DV)
+  * <b>Thesis</b> "Advancing 3D Vision and Deep Learning for Shape Analysis and Synthesis: Application to Cross-Species Knee Joint Biomechanical Modeling".
+  * Transformer-based architectures for 3D vision (images and point clouds) and multiple tasks (segmentation, landmarking, synthesis).
+  * 3D shape synthesis using Denoising Diffusion Probabilistic Models (DDPMs) models.
+  * Publications in top-tier peer-reviewed conferences (CVPR, ICCVW, 3DV).
 * <b>MSc</b>  in ICT for Internet and Multimedia <i>cum laude</i>, Università degli Studi di Padova, Italy, 2021
+  * <b>Thesis</b> "Simultaneous Depth Completion and 3D Object Detection via Deep Learning for Scene Reconstruction in Autonomous Driving Scenarios".
 * <b>MSc</b>  in Telecommunication Engineering, Universidad Politecnica de Madrid, Spain, 2021
 * <b>BSc</b>  in Information Engineering, Università degli Studi di Padova, Italy, 2018
 
