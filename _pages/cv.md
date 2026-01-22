@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +10,10 @@ redirect_from:
 
 Education
 ======
-* <b>PhD</b> in Deep Learning and 3D Vision (Medical Application), Mines Paris - PSL Univeristy, France, 2025
+* <b>PhD</b> in Deep Learning and 3D Vision in Healthcare, <i>Doctoral program AI4TheSciences - Horizon 2020 -Marie Skłodowska-Curie Actions-COFUND</i>, Mines Paris - PSL Univeristy, France, 2025
+  * Led the design and development of large-scale deep-learning architectures for 3D vision across multiple modalities (images and point clouds) and tasks (segmentation, landmarking, synthesis), with research published at CVPR, ICCVW, and 3DV. 
+  * Experienced in cross-functional collaboration and bridging research innovation with practical healthcare challenges. In addition, I trained and supervised two master students.
   * <b>Thesis</b> "Advancing 3D Vision and Deep Learning for Shape Analysis and Synthesis: Application to Cross-Species Knee Joint Biomechanical Modeling".
-  * Transformer-based architectures for 3D vision (images and point clouds) and multiple tasks (segmentation, landmarking, synthesis).
-  * 3D shape synthesis using Denoising Diffusion Probabilistic Models (DDPMs) models.
-  * Publications in top-tier peer-reviewed conferences (CVPR, ICCVW, 3DV).
 * <b>MSc</b>  in ICT for Internet and Multimedia <i>cum laude</i>, Università degli Studi di Padova, Italy, 2021
   * <b>Thesis</b> "Simultaneous Depth Completion and 3D Object Detection via Deep Learning for Scene Reconstruction in Autonomous Driving Scenarios".
 * <b>MSc</b>  in Telecommunication Engineering, Universidad Politecnica de Madrid, Spain, 2021
@@ -24,8 +22,7 @@ Education
 Work experience
 ======
 * 2021 - 2022: <b>Deep Learning Research Scientist</b> @ Universidad Politécnica de Madrid, Spain
-  * Contributed to EU Horizon 2020 projects, such as [GenoMed4All](https://genomed4all.eu/") and [PROCare4Life](https://procare4life.eu).
-  * Coordinated work across technical teams and developing supervised deep learning models in PyTorch for DNA, medical imaging, and 3D skeletal data.
+  * Contributed to EU Horizon 2020 projects, such as GenoMed4All and PROCare4Life, coordinating work across technical teams and developing supervised deep learning models in PyTorch for DNA, medical imaging, and 3D skeletal data. 
   * Delivered end-to-end pipelines and co-authored 3 peer-reviewed publications.
 * 2018 - 2019: ICT Help Desk Agent @ IL GAZZETTINO, Venice, Italy
 * 2014 - 2015: Front-End Developer @ Valore4IT, Venice, Italy
